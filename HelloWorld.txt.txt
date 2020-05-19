@@ -1,5 +1,6 @@
 Just testing Hello world txt file
 This line is changed in Branch-1
+This is the line changed in master
 
 This line is being changed in Branch-1 2nd time
 
